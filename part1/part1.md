@@ -1,4 +1,4 @@
-1a.
+## 1a.
 1. values added: 20
 2. final result: 20
 3. values added: 20
@@ -6,7 +6,7 @@
 5. error, "result" is const and cannot be reassigned on line 7
 6. error, "result" is const and cannot be reassigned on line 7
 
-1b.
+## 1b.
 1. "3" is printed, because "i" is defined with var and can be referenced outside the for loop
 2. "150" is printed, because "discountedPrice" is defined with var and can be referenced outside the for loop
 3. "150" is printed, because "finalPrice" is defined with var and is printed in the same block it is defined
